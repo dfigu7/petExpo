@@ -1,0 +1,22 @@
+.link-icon {
+    width:25px;
+    height:25px;
+}
+
+.pet {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 5px 10px;
+    border-radius: 10px
+    /* #eef8f8 */
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.link-active {
+    font-weight: 600;
+}

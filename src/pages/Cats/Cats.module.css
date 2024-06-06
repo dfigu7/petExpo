@@ -1,0 +1,35 @@
+.page {
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    gap: 50px;
+    align-items: center;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.limiter {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.limiter select {
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
+    border-color: rgba(0,0,0,0.2);
+
+}
+
+.lwrapper {
+    display: flex;
+    align-items: center;
+    gap:10px;
+}

@@ -1,0 +1,21 @@
+.input {
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    background: white;
+    border: 1px solid rgba(0,0,0,0.2);
+    padding: 5px 10px;
+    gap: 5px;
+    box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
+}
+
+.input input {
+    flex: 1;
+    border: none;
+    outline: none;
+}
+
+.input img{
+    width: 25px;
+    height: 25px;
+}
